@@ -1,29 +1,22 @@
 ![Header](https://github.com/Deepak5910/Deepak5910/blob/main/Screenshot%202023-08-09%20010437.jpg)
 
-<h1 align="center"> Hello, people! <img src="https://github.com/Akshay-jain22/Akshay-jain22/blob/main/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hello, people! <img src="https://github.com/Deepak5910/Deepak5910/blob/main/wave.gif" width="30px"> </h1>
+I'm <b>Deepak Mina</b>, Currently Studying about Information Technology at [National Institute of Technology, Karnataka](https://www.nitk.ac.in/)
 
-I'm <b>Akshay Jain</b>, Currently Studying about Information Technology at [National Institute of Technology, Karnataka](https://www.nitk.ac.in/)
-
-I'm interested in Development and Open-Source Projects.
-
-
-#### 🤔 Feeling Bored?
-[Play a Game](https://akshay-jain22.github.io/Pokemon-Card-Game/)
+I'm interested in Advanced Data Structures And Algorithms and Open-Source Projects.
 
 ---
 
 ## Go Check Out👉
-
-- [Heartz](https://github.com/Akshay-jain22/Heartz)
-- [FERAMS](https://github.com/Akshay-jain22/FERAMS)
-- [MedBot](https://github.com/Akshay-jain22/MedBot)
-- [Web Chat Application](https://github.com/Akshay-jain22/WebChat-Application)
-- [Game Bash](https://github.com/Akshay-jain22/Game_Bash)
-
+- [Smart Parking Lot System](https://github.com/Deepak5910/Smart-Parking-System-Using-Opps)
+- [Web Attack Detection](https://github.com/Deepak5910/Web-Attack-Detection-Using-Deep-Learning-Models)
+- [Real Time Image Captioning](https://github.com/Deepak5910/)
+- [E-Learning](https://github.com/Deepak5910/E-learning)
+- [Hote Management System](https://github.com/Deepak5910/)
 ---
 
 ## ⚡ Special Section ⚡
-- [Software Applications](https://github.com/Akshay-jain22/Software-Applications)
+- <h1><img src="https://github.com/Deepak5910/Deepak5910/blob/main/leetcode.jpg" width="40px",height = "20px">LeetCode</h1>
 
 ---
 
