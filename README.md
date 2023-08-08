@@ -1,4 +1,4 @@
-![Header](https://github.com/Deepak5910/Deepak5910/blob/main/image.jpg)
+![Header](https://github.com/Deepak5910/Deepak5910/blob/main/Screenshot%202023-08-09%20010437.jpg)
 
 <h1 align="center"> Hello, people! <img src="https://github.com/Akshay-jain22/Akshay-jain22/blob/main/wave.gif" width="30px"> </h1>
 
