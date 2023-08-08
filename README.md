@@ -16,33 +16,17 @@ I'm interested in Advanced Data Structures And Algorithms and Open-Source Projec
 ---
 
 ## ⚡ Special Section ⚡
-- <h1><img src="https://github.com/Deepak5910/Deepak5910/blob/main/leetcode.jpg" width="40px",height = "20px">LeetCode</h1>
+
 
 ---
 
 ## 🔥 My Stats 🔥
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshay-jain22&layout=compact&theme=vision-friendly-dark&count_private=true)
-
+ 
 ---
 
 📫 How to reach me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-akshay--jain22-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-jain22)
+[LinkedIn ](https://www.linkedin.com/in/deepak-1982)
 
 ---
-
-<!--
-**Akshay-jain22/Akshay-jain22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
