@@ -1,4 +1,4 @@
-![Header](https://github.com/Akshay-jain22/Akshay-jain22/blob/main/Banner_new.png)
+![Header](https://github.com/Deepak5910/Deepak5910/blob/main/image.jpg)
 
 <h1 align="center"> Hello, people! <img src="https://github.com/Akshay-jain22/Akshay-jain22/blob/main/wave.gif" width="30px"> </h1>
 
