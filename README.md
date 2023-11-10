@@ -12,7 +12,7 @@ I'm interested in Advanced Data Structures And Algorithms and Open-Source Projec
 - [Web Attack Detection](https://github.com/Deepak5910/Web-Attack-Detection-Using-Deep-Learning-Models)
 - [Real Time Image Captioning](https://github.com/Deepak5910/Real-Time-image-Captioning-/tree/main)
 - [E-Learning](https://github.com/Deepak5910/E-learning)
-- [Hote Management System](https://github.com/Deepak5910/)
+- [Hotel Management System](https://github.com/Deepak5910/)
 ---
 
 ## ⚡ Special Section ⚡
